@@ -219,7 +219,7 @@ a.menu-toggle-btn {
 	height: 46px;
 	background: #1e90ff;
 	position: relative;
-	background: url(https://i.ibb.co/hRp9v07/templatemo-teamhexa.png) no-repeat;
+	background: url(https://cdn.statically.io/gh/reydylanza/infusd/ee8427ee/templatemo-teamhexa.png) no-repeat;
 	margin-bottom: 10px;
 }
 .smallhexagon:before {
@@ -391,10 +391,10 @@ a.menu-toggle-btn {
     width: 46px;
 	height: 40px;
 	position: relative;
-    background: url(https://i.ibb.co/xfXKbrh/templatemo-footerhexa.png) no-repeat;
+    background: url(https://cdn.statically.io/gh/reydylanza/infusd/d4d0a897/templatemo-footerhexa.png) no-repeat;
 }
 
- a:hover .hex_footer{ background: url(https://i.ibb.co/k39PkZc/templatemo-teamhexa-hover.png) no-repeat; }
+ a:hover .hex_footer{ background: url(https://cdn.statically.io/gh/reydylanza/infusd/b1844f05/templatemo_teamhexa_hover.png) no-repeat; }
 
 .hex_footer span.fa{ color: #ffffff; font-size: 16px; line-height: 40px; }
 
